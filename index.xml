@@ -2,13 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Goce Anastasovski</title>
-    <link>https://anastasovskigoce.github.io/</link>
+    <link>https://ganastasovski.com/</link>
     <description>Recent content on Goce Anastasovski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://anastasovskigoce.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ganastasovski.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conferences</title>
+      <link>https://ganastasovski.com/conferences/</link>
+      <pubDate>Sun, 29 Nov 2020 22:14:49 -0400</pubDate>
+      
+      <guid>https://ganastasovski.com/conferences/</guid>
+      <description>Technical Talks Code Review A Software Engineer&amp;rsquo;s Best Friend - Link to Talk  DroidconAPAC, December 2020 GDG DevFest Italia, November 2020 DroidconEMEA, October 2020 DC Android Meetup, July 2020  Journal Articles  Katerina Goseva-Popstojanova and Goce Anastasovski &amp;ldquo;Characterization and classification of malicious Web traffic&amp;rdquo; In: Journal of Computer &amp;amp; Security  Conference Proceedings   Goce Anastasovski and Katerina Goseva-Popstojanova “Classification of Partially Labeled Malicious Web Traffic in the Presence of Concept Drift” In: The IEEE 8th International Conference on Software Security and Reliability-Companion (SERE-C), San Francisco, USA, June 30 - July 2, 2014 CA, USA: International Institute of Informatics and Systemics</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ganastasovski.com/about/</link>
+      <pubDate>Sun, 29 Nov 2020 15:36:51 -0400</pubDate>
+      
+      <guid>https://ganastasovski.com/about/</guid>
+      <description>I have been working as a Mobile Developer since 2014 and I currently lead a team of several mobile engineers. Most of my carrier was spent on an app that lets you control IoT devices and some part of my career was spent working on a banking app. In my free time, I am either working on side projects or conference talks. Check out my GitHub page or my conferences section for more details.</description>
+    </item>
     
   </channel>
 </rss>
