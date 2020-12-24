@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Goce Anastasovski</title>
-    <link>https://anastasovskigoce.github.io/posts/</link>
+    <link>https://ganastasovski.com/posts/</link>
     <description>Recent content in Posts on Goce Anastasovski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 29 Aug 2020 15:38:03 -0400</lastBuildDate>
     
-	<atom:link href="https://anastasovskigoce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ganastasovski.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>https://anastasovskigoce.github.io/posts/first/</link>
+      <link>https://ganastasovski.com/posts/first/</link>
       <pubDate>Sat, 29 Aug 2020 15:38:03 -0400</pubDate>
       
-      <guid>https://anastasovskigoce.github.io/posts/first/</guid>
+      <guid>https://ganastasovski.com/posts/first/</guid>
       <description></description>
     </item>
     
